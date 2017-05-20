@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 1", "ConsoleApplication1\Task 1.csproj", "{BC341ABD-809E-44FE-8B3F-B7EFF2F83B79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task 2", "..\task 2\task 2\task 2.csproj", "{4FDB0850-9F5E-45E4-91F4-DB2396BA0FA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 3", "..\task3\WindowsFormsApplication1\Task 3.csproj", "{2BCFF2EE-ACA6-45F3-8C0C-586B07AB983E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task 4", "..\Task 4 -Advanced PaintApp\PaintPencil\Task 4.csproj", "{7B5E8E1B-DAC9-4E92-812F-CAFACDA6657A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC341ABD-809E-44FE-8B3F-B7EFF2F83B79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC341ABD-809E-44FE-8B3F-B7EFF2F83B79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC341ABD-809E-44FE-8B3F-B7EFF2F83B79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC341ABD-809E-44FE-8B3F-B7EFF2F83B79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FDB0850-9F5E-45E4-91F4-DB2396BA0FA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FDB0850-9F5E-45E4-91F4-DB2396BA0FA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FDB0850-9F5E-45E4-91F4-DB2396BA0FA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FDB0850-9F5E-45E4-91F4-DB2396BA0FA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BCFF2EE-ACA6-45F3-8C0C-586B07AB983E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BCFF2EE-ACA6-45F3-8C0C-586B07AB983E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BCFF2EE-ACA6-45F3-8C0C-586B07AB983E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BCFF2EE-ACA6-45F3-8C0C-586B07AB983E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B5E8E1B-DAC9-4E92-812F-CAFACDA6657A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B5E8E1B-DAC9-4E92-812F-CAFACDA6657A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B5E8E1B-DAC9-4E92-812F-CAFACDA6657A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B5E8E1B-DAC9-4E92-812F-CAFACDA6657A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
